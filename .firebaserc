@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "beestore-itu",
+    "build/web": "me-shopy"
+  },
+  "targets": {},
+  "etags": {}
+}
