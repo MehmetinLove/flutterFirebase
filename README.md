@@ -1,4 +1,4 @@
-# bee_store
+# me_shop
 
 > Kurulumlarda sorun yaşayanlar: [DartPad](https://dartpad.dev/) kullanabilirler.
 
