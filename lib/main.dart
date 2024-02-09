@@ -30,6 +30,7 @@ Future<void> main() async {
   runApp(const HarunOdev2());
 }
 
+
 int pozitifSayiTopla({int a = 0, int b = 0}) {
   if (a < 0 || b < 0) {
     throw Exception('a ve b pozitif olmalıdır. a: $a, b: $b');
